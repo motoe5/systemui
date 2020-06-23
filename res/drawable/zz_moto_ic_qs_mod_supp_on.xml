@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="power_sharing_master" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="mod_changing_color" android:fillColor="#ff202020" android:pathData="M 16.77 1 L 7.24 1 C 6.545 1.022 5.994 1.595 6 2.29 L 6 19.71 C 5.989 20.408 6.542 20.984 7.24 21 L 16.77 21 C 17.464 20.978 18.011 20.404 18 19.71 L 18 2.29 C 18.008 1.956 17.883 1.632 17.652 1.39 C 17.422 1.148 17.104 1.008 16.77 1 Z M 12 3.26 C 12.911 3.256 13.734 3.802 14.086 4.642 C 14.437 5.482 14.247 6.452 13.605 7.097 C 12.962 7.743 11.993 7.937 11.151 7.59 C 10.309 7.242 9.76 6.421 9.76 5.51 C 9.76 4.271 10.761 3.266 12 3.26 Z" android:strokeWidth="1.0" />
+</vector>

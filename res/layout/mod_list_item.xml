@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/list_view_row_radiobtn" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="16.0dip" android:layout_marginEnd="25.0dip" />
+    <LinearLayout android:orientation="vertical" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="24.0dip">
+        <TextView android:textSize="16.0sp" android:gravity="center_vertical" android:id="@id/list_view_row_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="6.0dip" style="?android:textAppearanceLarge" />
+        <TextView android:textSize="14.0sp" android:textColor="@android:color/darker_gray" android:gravity="center_vertical" android:id="@id/list_view_row_subtext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dip" style="?android:textAppearanceListItemSecondary" />
+    </LinearLayout>
+</LinearLayout>

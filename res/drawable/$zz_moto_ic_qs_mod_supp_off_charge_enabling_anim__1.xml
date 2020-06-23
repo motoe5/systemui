@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator n1:interpolator="@android:interpolator/fast_out_slow_in" n1:duration="443" n1:startOffset="788" n1:valueFrom="M 0 0 L 0 24 L 24 24 L 24 0 Z M 11.85 10.59 L 11.85 10.59 L 11.85 10.59 L 11.85 10.59 L 11.85 10.59 L 11.85 10.59" n1:valueTo="M 0 0 L 0 24 L 24 24 L 24 0 Z M 10 10.59 L 14 10.59 L 12.4 13.59 L 11.84 14.59 L 10 14.59 L 10 10.59" n1:valueType="pathType" n1:propertyName="pathData"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <objectAnimator n2:interpolator="@android:interpolator/fast_out_slow_in" n2:duration="188" n2:startOffset="1231" n2:valueFrom="M 0 0 L 0 24 L 24 24 L 24 0 Z M 10 10.59 L 14 10.59 L 12.4 13.59 L 12.12 14.09 L 11.84 14.59 L 10 14.59 L 10 10.59" n2:valueTo="M 0 0 L 0 24 L 24 24 L 24 0 Z M 10 10.59 L 14 10.59 L 12.38 13.59 L 14 13.59 L 13.33 14.59 L 10 14.59 L 10 10.59" n2:valueType="pathType" n2:propertyName="pathData"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
+    <objectAnimator n3:interpolator="@android:interpolator/fast_out_slow_in" n3:duration="339" n3:startOffset="1419" n3:valueFrom="M 0 0 L 0 8 L 0 16 L 0 24 L 24 24 L 24 16 L 24 8 L 24 0 Z M 12.38 13.59 L 14 13.59 L 13.33 14.59 L 12.22 14.59 L 11.11 14.59 L 10 14.59 L 10 10.59 L 14 10.59 L 12.38 13.59" n3:valueTo="M 0 0 L 0 8 L 0 16 L 0 24 L 24 24 L 24 16 L 24 8 L 24 0 Z M 12.38 13.59 L 14 13.59 L 13.33 14.59 L 11 18.17 L 11 14.59 L 10 14.59 L 10 10.59 L 14 10.59 L 12.38 13.59" n3:valueType="pathType" n3:propertyName="pathData"
+      xmlns:n3="http://schemas.android.com/apk/res/android" />
+</set>

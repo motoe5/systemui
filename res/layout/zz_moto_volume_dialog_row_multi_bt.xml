@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/volume_row_multi_bt_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/volume_button_size">
+        <TextView android:textAppearance="@style/TextAppearance.Volume.Header" android:ellipsize="end" android:id="@id/multi_bt_row_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:paddingStart="@dimen/volume_row_header_padding_start" />
+        <ImageView android:id="@id/imageView_stereo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="5.0dip" android:paddingEnd="5.0dip" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/volume_row_padding_start" android:layout_marginStart="@dimen/volume_button_size">
+        <SeekBar android:id="@id/volume_row_slider" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/volume_row_slider_padding_start" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/cellular_tile" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="bottom|center|right" android:id="@id/mobile_signal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="?android:textColorPrimary" />
+    <com.android.systemui.statusbar.AnimatedImageView android:layout_gravity="center|right|top" android:id="@id/mobile_roaming" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="?android:textColorPrimary" />
+    <ImageView android:layout_gravity="bottom|center|left" android:id="@id/mobile_type" android:layout_width="fill_parent" android:layout_height="fill_parent" android:tint="?android:textColorPrimary" />
+    <ImageView android:layout_gravity="bottom|center|left" android:id="@id/mobile_type_overlay" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:tint="?android:textColorPrimary" />
+    <ImageView android:layout_gravity="bottom|center|right" android:id="@id/mobile_data_in" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_qs_signal_in" android:tint="?android:textColorPrimary" />
+    <ImageView android:layout_gravity="center|right|top" android:id="@id/mobile_data_out" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_qs_signal_out" android:tint="?android:textColorPrimary" />
+</FrameLayout>

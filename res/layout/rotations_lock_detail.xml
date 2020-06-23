@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup android:orientation="vertical" android:paddingTop="@dimen/qs_detail_margin_top" android:paddingBottom="@dimen/qs_detail_margin_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/rotations_lock_radio_auto" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/quick_settings_rotations_lock_rotate" android:drawableLeft="@drawable/stat_sys_auto_rotate_portrait" />
+    <RadioButton android:id="@id/rotations_lock_radio_portrait" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/quick_settings_rotations_lock_portrait" android:drawableLeft="@drawable/stat_sys_rotate_portrait" />
+    <RadioButton android:id="@id/rotations_lock_radio_landscape" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/quick_settings_rotations_lock_landscape" android:drawableLeft="@drawable/stat_sys_rotate_landscape" />
+</RadioGroup>

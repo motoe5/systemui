@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<networks xmlns:sysui="http://schemas.android.com/apk/res-auto">
+    <item sysui:carrier_name="generic" sysui:cdma_1x="1X_W" sysui:e="E_W" sysui:evdo="3G_W" sysui:g="G_W" sysui:h="3G_W" sysui:home="both" sysui:hspap="3G_W" sysui:lte="LTE_W" sysui:lte_ca="LTE+_W" sysui:off="OFF" sysui:td_scdma="3G_W" sysui:umts="3G_W" />
+    <item sysui:carrier_name="aio" sysui:h="4G_W" sysui:home="home" sysui:hspap="4G_W" />
+    <item sysui:carrier_name="aio" sysui:h="H_W" sysui:home="roam" sysui:hspap="H_W" />
+    <item sysui:carrier_name="agc-lt" sysui:h="H_W" sysui:lte="4G_LTE_W" />
+    <item sysui:carrier_name="att" sysui:e="E_A_W" sysui:g="G_A_W" sysui:h="4G_A_W" sysui:hspap="4G_A_W" sysui:lte="4G_LTE_A_W" sysui:lte_ca="4G_LTE_A_W" sysui:umts="4G_A_W" />
+    <item sysui:carrier_name="att-mex" sysui:h="H_W" sysui:hspap="H+_W" sysui:lte="4G_LTE_W" sysui:lte_ca="4G_LTE_W" />
+    <item sysui:carrier_name="bellca" sysui:h="H+_W" sysui:hspap="H+_W" />
+    <item sysui:carrier_name="chn-common" sysui:cdma_1x="2G_W" sysui:lte="4G_W" />
+    <item sysui:carrier_name="chn-ct" sysui:cdma_1x="2G_W" sysui:e="2G_W" sysui:g="2G_W" sysui:lte="4G_W" />
+    <item sysui:carrier_name="chn-cmcc" sysui:cdma_1x="OFF" sysui:evdo="OFF" sysui:h="OFF" sysui:hspap="OFF" sysui:lte="4G_W" />
+    <item sysui:carrier_name="chn-cu" sysui:cdma_1x="OFF" sysui:evdo="OFF" sysui:g="2G_W" sysui:hspap="OFF" sysui:lte="4G_W" sysui:td_scdma="OFF" />
+    <item sysui:carrier_name="claroPR" sysui:h="H_W" sysui:hspap="H+_W" />
+    <item sysui:carrier_name="cricket" sysui:h="4G_W" sysui:hspap="4G_W" />
+    <item sysui:carrier_name="orange" sysui:h="3G+_W" sysui:hspap="H+_W" sysui:lte="4G_W" sysui:lte_ca="4G+_W" />
+    <item sysui:carrier_name="ee" sysui:h="3G+_W" sysui:hspap="H+_W" sysui:lte="4G_W" sysui:lte_ca="4G_W" />
+    <item sysui:carrier_name="rogers" sysui:h="H+_W" sysui:home="home" sysui:hspap="H+_W" sysui:umts="H+_W" />
+    <item sysui:carrier_name="fido" sysui:h="H+_W" sysui:home="home" sysui:hspap="H+_W" sysui:umts="H+_W" />
+    <item sysui:carrier_name="sfr" sysui:e="E_W" sysui:g="2G_W" sysui:h="3G+_W" sysui:hspap="H+_W" sysui:lte="4G_W" sysui:lte_ca="4G+_W" sysui:umts="3G_W" />
+    <item sysui:carrier_name="meo" sysui:e="E_W" sysui:g="2G_W" sysui:h="H+_W" sysui:lte="4G_W" sysui:lte_ca="4G+_W" sysui:umts="3G_W" />
+    <item sysui:carrier_name="tmo" sysui:h="4G_W" sysui:home="home" sysui:hspap="4G_W" sysui:lte="4G_LTE_W" sysui:lte_ca="4G_LTE_W" sysui:umts="4G_W" />
+    <item sysui:carrier_name="tmo" sysui:home="roam" sysui:lte="4G_LTE_W" sysui:lte_ca="4G_LTE_W" />
+    <item sysui:carrier_name="tmo-intl" sysui:lte="4G_W" sysui:lte_ca="4G+_W" />
+    <item sysui:carrier_name="us-cellular" sysui:lte="4G_W" />
+    <item sysui:carrier_name="vzw" sysui:h="H_W" sysui:hspap="H+_W" sysui:lte="4G_LTE_W" sysui:lte_ca="4G_LTE_W" />
+</networks>

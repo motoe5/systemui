@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="power_sharing_master" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="path_1" android:fillColor="#ff989898" android:pathData="M 2.363 6.636 L 3.636 5.363 L 20.132 21.86 L 18.86 23.133 Z" android:strokeWidth="1.0" />
+    <clip-path android:name="line_1_end" android:pathData="M 0 0 L 0 24 L 24 24 L 24 0 Z M 20.14 21.86 L 3.64 5.36 L 4.92 4.08 L 21.42 20.58 Z" />
+    <clip-path android:name="thunder_stage_3" android:pathData="M 0 0 L 0 24 L 24 24 L 24 0 Z M 14 13.59 L 13.33 14.59 L 11 18.17 L 11 14.59 L 10 14.59 L 10 10.59 L 14 10.59 L 12.38 13.59 Z" />
+    <path android:name="plain_mod" android:fillColor="#ff989898" android:pathData="M 16.77 1 L 7.24 1 C 6.545 1.022 5.994 1.595 6 2.29 L 6 19.71 C 5.989 20.408 6.542 20.984 7.24 21 L 16.77 21 C 17.464 20.978 18.011 20.404 18 19.71 L 18 2.29 C 18.008 1.956 17.883 1.632 17.652 1.39 C 17.422 1.148 17.104 1.008 16.77 1 Z M 12 7.76 C 10.765 7.755 9.765 6.755 9.76 5.52 C 9.756 4.608 10.303 3.784 11.144 3.433 C 11.986 3.082 12.956 3.274 13.601 3.919 C 14.246 4.564 14.438 5.534 14.087 6.376 C 13.736 7.217 12.912 7.764 12 7.76 Z" android:strokeWidth="1.0" />
+</vector>
